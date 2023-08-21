@@ -162,3 +162,9 @@ a {
     height: 368px;
     background-image: url(../imgs/Object.png);
 }
+
+.btn {
+    width: 10px;
+    height: 100px;
+    background-color: #EA4737;
+}
